@@ -4,9 +4,9 @@
 
 1. Нужно клонировать проект
 
-git@github.com:bormotun2017/Final_examination.git
+   git@github.com:bormotun2017/Final_examination.git
 
-(необходимо чтобы папки Diplom_project и Simuliator были смежными для праильности прописания путей)
+   (необходимо чтобы папки Diplom_project и Simuliator были смежными для праильности прописания путей)
 
 2. Запустить симулятор. `go run Simuliator\skillbox-diploma\main.go`
 
